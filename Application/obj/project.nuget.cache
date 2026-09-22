@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3tyzqY/48mo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BEHRUZ\\Desktop\\ProductStoreApi\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BEHRUZ\\.nuget\\packages\\dapper\\2.1.86\\dapper.2.1.86.nupkg.sha512",
+    "C:\\Users\\BEHRUZ\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
